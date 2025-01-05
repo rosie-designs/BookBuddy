@@ -1,6 +1,6 @@
 # BookBuddy - Library Management System
 ## Overview
-#### The Library Management System is a Java-based application developed as part of a high school project to modernize our library's operations. BookBuddy makes checking out books more interactive for students and more efficient for librarians! By integrating the Google Books API, BookBuddy retrieves accurate information about books, making it easier for users to find the exact book they need. The program also includes features to manage ratings and comments, fostering a sense of community and interaction among users!
+The Library Management System is a Java-based application developed as part of a high school project to modernize our library's operations. BookBuddy makes checking out books more interactive for students and more efficient for librarians! By integrating the Google Books API, BookBuddy retrieves accurate information about books, making it easier for users to find the exact book they need. The program also includes features to manage ratings and comments, fostering a sense of community and interaction among users!
 ## Features
 #### 1. Book Search
 - Users can search for books by title or ISBN.

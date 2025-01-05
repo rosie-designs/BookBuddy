@@ -15,3 +15,14 @@
 3. Moderating Reviews
 - Librarians have the opportunity to delete reviews that are inappropriate
 - This ensures a respectful environment
+
+## Usage
+Setup
+1. Clone this repository
+2. Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Run the program.
+Operations
+- Search: Use the search bar to find books by name or ISBN.
+- Rate and Comment: After checking out a book, add your rating and comment.
+- Moderate Reviews: Librarians can log in to delete inappropriate reviews.
+  - The password is: 

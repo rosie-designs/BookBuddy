@@ -9,7 +9,7 @@ The Library Management System is a Java-based application developed as part of a
   - Author(s)
   - Publication Date
   - Cover Image
-2. Book Ratings and Comments
+#### 2. Book Ratings and Comments
 - Users can rate books on a scale of 1 to 5 stars and add comments to share their opinions
 - These reviews help other students decide which books to borrow
 3. Moderating Reviews
